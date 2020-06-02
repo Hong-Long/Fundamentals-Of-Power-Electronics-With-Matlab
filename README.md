@@ -27,3 +27,12 @@ Fundamentals Of Power Electronics With Matlab
   The closest standard value of resistance to 225ohm is 220ohm. Standard resistance walues have a tolerance of ±5% of the nominal value. If a standard 220ohm resistor is used as the series resistance in Example 1.3.
 ### **Question**
   What it the possible range of load current?
+## **Example 1.4**
+### **Description**
+  Find the steady-state power absorbed in each element in the circuit shown in Figure 1.2
+### **Conclusion**
+  In the steady-state circuit, the values of the inductances and capacitances are irrelevant in the computation of absorbed power because the energy delivered by the source is only dissipated in the resistive elements. The analysis of a steady-state DC circuit is only dissipated in the resistive elements. The analysis of a steady-state DC circuit is simplified when all inductors are replaced with short circuits and all capacitors are replaced with open circuits.
+## **Exercise 1.4**
+### **Description**
+  Find the power absorbed in each element in the circuit shown in Figure 1.4.
+
