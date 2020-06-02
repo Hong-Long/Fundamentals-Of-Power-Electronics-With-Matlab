@@ -1,4 +1,4 @@
-clear all,close all;
+clear ,close all;
 Vin = 12;
 Vbattery = 3;
 Vres = Vin - Vbattery;
