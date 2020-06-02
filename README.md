@@ -35,4 +35,11 @@ Fundamentals Of Power Electronics With Matlab
 ## **Exercise 1.4**
 ### **Description**
   Find the power absorbed in each element in the circuit shown in Figure 1.4.
-
+## **Example 1.5**
+### **Description**
+  Determine the number of joules in 1KWH
+## **Exercise 1.5**
+### **Description**
+  Find the number of KWHs used by a 2-kilowatt air conditioning unit if operated 9 hours a day for 30 days. 
+### **Question**
+  Calculate the cost of energy based on 12 cents per KWH
