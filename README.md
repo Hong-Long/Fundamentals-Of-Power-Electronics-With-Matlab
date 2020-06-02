@@ -16,9 +16,14 @@ Fundamentals Of Power Electronics With Matlab
 ## **Exercise 1.2**
 ### **Description**
   Find the average value of v_theta = Vm*sin(theta),theta is between 0 and pi
-## **Exercise 1.3**
+## **Example 1.3**
 ### **Description**
   A certain battery-operated dvice reauires 3.0V and draws a current of 40mA. 
 ### **Question**
 1.   What series resistance is required to operate the device from a 12V automobile battery?
 1.   How much power is dissipated by the resistance?
+## **Exercise 1.3**
+### **Description**
+  The closest standard value of resistance to 225ohm is 220ohm. Standard resistance walues have a tolerance of ±5% of the nominal value. If a standard 220ohm resistor is used as the series resistance in Example 1.3.
+### **Question**
+  What it the possible range of load current?
