@@ -1,4 +1,4 @@
-clear all,close all;
+clear,close all;
 
 % In the function of DC operation, the inductor is replaced by a short
 % circuit while the capacitors is replaced by an open circuit.
