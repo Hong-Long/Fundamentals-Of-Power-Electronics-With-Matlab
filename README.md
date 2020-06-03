@@ -55,4 +55,22 @@ Fundamentals Of Power Electronics With Matlab
 ## **Exercise 1.7**
 ### **Description**
   Create an m-file in MATLAB with the code from Example 1.7 and verify that the average value computed is approximately 108V. Verify that this result agrees with the result of Exercise 1.2 with Vm = 170V.
+## **Example 1.8**
+### **Description**
+  Find the RMS value of the waveform from Example 1.2
+## **Exercise 1.8**
+### **Description**
+  Find the RMS value of the waveform in Exercise 1.2 and prove that the RMS values of rectified and nonrectified sinusoids are the same.
+## **Example 1.9**
+### **Description**
+  Calculate the power dissipated in a 10 ohm resistor if the sinusoidal current through the resistance has a peak value of 10A
+## **Exercise 1.9**
+### **Description**
+  Calculate the power dissipated in a 10ohm resistor if the sinusoidal current through the resistance has a peak value of 10A
+## **Example 1.10**
+### **Description**
+  Use MATLAB to verify the RMS value derivation of the full-wave rectified sine wave in Exercise 1.8 with Vm = 170V.
+## **Exercise 1.10**
+### **Description**
+  Find the RMS value of v(t+T)=100t/T, in which T=2*pi. Verify that the RMS value if the peak value divided by sqrt(3)
 
