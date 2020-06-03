@@ -49,3 +49,10 @@ Fundamentals Of Power Electronics With Matlab
 ## **Exercise 1.6**
 ### **Description**
   Prove that the average power absorbed in an ideal capacitor is zero when the current through the capacitor is i(t) = C*dv(t)/dt and the voltage across the capacitor is periodic
+## **Example 1.7**
+### **Description**
+  Use MATLAB to compute the average value of a full-wave rectified sine waveform that has a peak value of 170V.
+## **Exercise 1.7**
+### **Description**
+  Create an m-file in MATLAB with the code from Example 1.7 and verify that the average value computed is approximately 108V. Verify that this result agrees with the result of Exercise 1.2 with Vm = 170V.
+
