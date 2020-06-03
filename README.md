@@ -43,3 +43,9 @@ Fundamentals Of Power Electronics With Matlab
   Find the number of KWHs used by a 2-kilowatt air conditioning unit if operated 9 hours a day for 30 days. 
 ### **Question**
   Calculate the cost of energy based on 12 cents per KWH
+## **Example 1.6**
+### **Description**
+  Find the average power absorbed in an ideal inductor when the current through the inductance is periodic
+## **Exercise 1.6**
+### **Description**
+  Prove that the average power absorbed in an ideal capacitor is zero when the current through the capacitor is i(t) = C*dv(t)/dt and the voltage across the capacitor is periodic
